@@ -1,16 +1,13 @@
-## Hi there 👋
+### hi, yocombostreet here 👋
 
-<!--
-**yocombostreet/yocombostreet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build small web tools and utilities, mostly with TypeScript and React on the frontend. Most of my backend work runs on Node.js and SQLite. I'm into indie web projects and serverless setups where I can keep things pragmatic and small.
 
-Here are some ideas to get you started:
+- 🔭 Adding serverless functions to a small dashboard side project.
+- 📫 How to reach me: **@yocombostreet** on GitHub
+- ✨ I prefer boring solutions that work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yocombostreet&hide_border=true&theme=gruvbox" alt="Commit streak" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yocombostreet&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=gruvbox" alt="yocombostreet GitHub stats" />
+
+<img src="https://img.shields.io/badge/Node.js-58a6ff?style=for-the-badge&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/TypeScript-58a6ff?style=for-the-badge&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Express-58a6ff?style=for-the-badge&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/SQLite-58a6ff?style=for-the-badge&logoColor=white" alt="SQLite" /> <img src="https://img.shields.io/badge/React-58a6ff?style=for-the-badge&logoColor=white" alt="React" />
